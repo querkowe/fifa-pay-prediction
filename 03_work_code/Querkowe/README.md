@@ -15,5 +15,6 @@ Traditional ML을 통한 이적료 예측
 ### 22-09-20
 
 - 13시 31분 : randomized search, bayesian search 진행 / pycaret을 활용한 예측 / cross validation 진행결과 얻은 parameter 값을 통한 단일 모델 ML 예측
-
 - 16시 15분 : 최종 파일(사본)에 pycaret 진행내용 적용
+- 19시 28분 : pycaret min-max scale 적용, RMSE : 1.170670e+12 -> 1.025272e+06
+- 19시 55분 : model stacking 2nd model 72 -> 200 iter 적용, RMSE : 1080082.2099638004
